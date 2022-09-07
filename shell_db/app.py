@@ -29,7 +29,7 @@ while True:
 	''')
 	num = eval(input('请输入要进行的操作：'))
 	if num == 1:
-		anl_db.find_data()
+		yuan_db.find_data()
 	if num == 2:
 		find_all_info()
 	if num == 3:
