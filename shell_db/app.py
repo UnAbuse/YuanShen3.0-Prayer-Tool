@@ -22,6 +22,7 @@ while True:
 	print('''
 	原神祈愿分析工具使用说明：
 	作者:UnAbuse
+	文档:https://github.com/UnAbuse/YuanShen3.0-Prayer-Tool
 	1.获取能查询到的所有up祈愿（保存到数据库，减少工作量）
 	2.对数据库中的数据进行分析（用这个请确保数据库中已经保存数据，目前只支持up池，以后也许会做界面吧）
 	3.退出工具
