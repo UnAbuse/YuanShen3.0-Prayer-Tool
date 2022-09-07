@@ -11,3 +11,5 @@
 ![图片1](https://github.com/UnAbuse/YuanShen3.0-Prayer-Tool/blob/main/%5D42O6D6PKKES9IA3_$~%25%7DES.png)  
 在提交的数据中找到*authkey*,这个就是我们需要的参数了.
 ![图片2](https://github.com/UnAbuse/YuanShen3.0-Prayer-Tool/blob/efa4cef5c203ce7a3dbe00aac4a913b0f7e4cb9b/1.png)  
+这时候来到我们代码文件的目录下(目前只有命令行版本，其他后面应该会写),右键打开*Windows Shell*,便能开始使用工具了.  
+![图片3](https://github.com/UnAbuse/YuanShen3.0-Prayer-Tool/blob/a0cfdfab564374e9c926950b3c1d70352d5510bf/2.png)  
