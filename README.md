@@ -1,9 +1,10 @@
 # 原神3.0版本祈愿工具
 本工具需要有一定的电脑基础的人来操作,内含教程  
 ## 前置准备，相关库安装
-首先工具用到了python内置的轻量级数据库sqlite3，唯一的外置库就是requests.  
+首先工具用到了python内置的轻量级数据库sqlite3，外置库为requests,rich.  
 安装requests库:  
->pip install requests
+>pip install requests  
+>pip install rich
 ## 操作教学
 原神在3.0版本取消了祈愿日志输出的功能,作为一个经常写爬虫的人怎么可能自己去一个个数.  
 于是,我决定用抓包的方式来分析解决这个问题,对于提交数据的分析,只需要抓取到一个参数便可使用本工具进行查询.  
